@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="3" time="0.114" timestamp="2025-05-25T13:03:46.340417" hostname="LAPTOP-47HNDVHS"><testcase classname="scripts.test_case.TestCase" name="test_001" time="0.001"><failure message="assert 0">self = &lt;scripts.test_case.TestCase object at 0x000001C8074AF730&gt;
+
+    def test_001(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_case.py:3: AssertionError</failure></testcase><testcase classname="scripts.test_case.TestCase" name="test_002" time="0.000" /><testcase classname="scripts.test_case.TestCase" name="test_003" time="0.000" /></testsuite></testsuites>
